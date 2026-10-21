@@ -1,8 +1,6 @@
 `timescale 1ns / 1ps
 //////////////////////////////////////////////////////////////////////////////////
-// Company: 
-// Engineer: Korrapolu Eswar Adithya
-// 
+ 
 // Create Date: 02.11.2024 16:42:31
 // Design Name: 
 // Module Name: FIFO_tb
